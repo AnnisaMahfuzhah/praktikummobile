@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnnisaMyTechnology</string>
+    <string name="technology1">Tab</string>
+    <string name="technology2">Kamera</string>
+    <string name="technology3">Telpon</string>
+    <string name="technology4">Handphone</string>
+    <string name="technology5">Kalkulator</string>
+    <string name="technology6">Komputer</string>
+    <string name="technology7">Laptop</string>
+    <string name="technology8">Maps</string>
+    <string name="technology9">Mail</string>
+    <string name="technology10">Cloud</string>
+</resources>
